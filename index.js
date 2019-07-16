@@ -11,3 +11,14 @@ function destructivelyPrependKitten(array) {
   return kittens;
 }
 
+function destructivelyRemoveLastKitten(array) {
+  
+}
+
+function destructivelyRemoveFirstKitten(array) {
+  
+}
+
+function appentKitten(name) {
+  
+}
